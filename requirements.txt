@@ -1,0 +1,8 @@
+openai
+python-dotenv
+playwright
+agent-framework --pre
+azure-identity
+requests
+reportlab
+pydantic
